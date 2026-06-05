@@ -34,6 +34,6 @@ git init
 git add .
 git commit -m "Entrega modulo web Frutilado"
 git branch -M main
-git remote add origin https://github.com/usuario/frutilado-modulo-web.git
+git remote add origin https://github.com/robertocarlos-rodriguezgomez/frutilado-modulo-web.git
 git push -u origin main
 ```
